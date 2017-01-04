@@ -6,8 +6,8 @@ package.cpath = package.cpath .. ';.luarocks/lib/lua/5.2/?.so'
 tdcli = dofile('tdcli.lua')
 redis = (loadfile "./libs/redis.lua")()
 sudo_users = {
-  238773538,
-  173606679,
+  256331224,
+  193068389,
 	0
 }
 
